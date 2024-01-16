@@ -6,11 +6,7 @@
 
 不知道大家有没有遇到过，你让AI回答什么，AI货不对口，乱说，不是你想要的结果，那就用提示词来跟AI交流，让AI扮演角色，
 
-## 安装
+## 联系方式
 
-提供项目的安装方法，可以使用代码块来显示命令，比如：
-
-```bash
-git clone https://github.com/yourname/yourproject.git
-cd yourproject
-npm install
+QQ；478201690              微信C520-996     
+也是第一次在github上做项目，很简陋
